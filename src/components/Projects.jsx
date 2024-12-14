@@ -61,17 +61,17 @@ const Projects = () => {
 export const project = [
     {
         title:'IIT Patna Website',
-        description:'It is a dynamic web application crafted using Node JS and React. This project is going to official website of IIT Patna.',
+        description:'It is a dynamic web application crafted using Node JS and React. This project is going to official website of IIT Patna. Private repository due to security reasons.',
         image: {copeople},
         git:'https://github.com/AnnonymousBanda/institute-website',
         technologies:['ReactJS' , 'NodeJS']
     },
     {
-        title:'Blog Website',
-        description:'It is a blog website where user can read and write blogs. It is crafted using React and Tialwind CSS.',
+        title:'Productivity Booster',
+        description:'It is a Chrome Extension with features like Pomodoro Timer, Website Blocker, and Task Manager. It is built using HTML, CSS, and JavaScript.',
         image: {copeople},
-        git:"https://github.com/nithingooud/vpn_studios",
-        technologies:[ 'React JS', 'tailwind CSS']
+        git:"https://github.com/abhay25v/Productivity-Booster",
+        technologies:[ 'HTML', 'CSS', 'JavaScript']
     }
 ]
 
