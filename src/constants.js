@@ -1,4 +1,4 @@
-import {REACT_APP_EMAIL_JS_PUBLIC_KEY, REACT_APP_EMAIL_JS_SERVICE_ID,REACT_APP_EMAIL_JS_TEMPLATE_ID} from './.env'
+
 export const services = [
     {
         title: "Technology Enthusiast",
