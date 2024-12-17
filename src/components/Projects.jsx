@@ -61,9 +61,9 @@ const Projects = () => {
 export const project = [
     {
         title:'IIT Patna Website',
-        description:'It is a dynamic web application crafted using Node JS and React. This project is going to official website of IIT Patna. Private repository due to security reasons.',
+        description:'It is a dynamic web application crafted using Node JS and React. This project is going to official website of IIT Patna. Still in developing phase.',
         image: {copeople},
-        git:'https://github.com/AnnonymousBanda/institute-website',
+        git:'https://institute-website-eta.vercel.app/',
         technologies:['ReactJS' , 'NodeJS']
     },
     {
