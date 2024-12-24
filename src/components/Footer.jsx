@@ -19,7 +19,7 @@ const Footer = () => {
 					<a href="https://x.com/abhay25v" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<FaTwitter className='text-xl' />
 					</a>
-					<a href="www.linkedin.com/in/abhay-varshney-a5353728b" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
+					<a href="https://www.linkedin.com/in/abhay-varshney-25v/" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<AiFillLinkedin className='text-xl' />
 					</a>
 					<a href="https://github.com/abhay25v" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }} >
